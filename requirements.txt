@@ -1,0 +1,11 @@
+faster-whisper>=1.0.0
+chatterbox-tts
+pydub
+sounddevice
+soundfile
+numpy
+scipy
+flask
+gradio>=4.16
+requests
+torch>=2.0.0
