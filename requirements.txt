@@ -1,0 +1,9 @@
+faster-whisper>=1.0.0
+kokoro>=0.9.4
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+scipy>=1.11.0
+requests>=2.31.0
+flask>=3.0.0
+gradio>=4.16.0
